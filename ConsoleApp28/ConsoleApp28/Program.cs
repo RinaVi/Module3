@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp28
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Salad salad1 = new Salad();
+            salad1.Name = "Fruity";
+            salad1.Price = "5";
+        }
+    }
+}
