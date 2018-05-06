@@ -6,14 +6,13 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp28
 {
-    public class Salad : Dish
+    public class Cake : Dish
     {
-        public Salad(string name, string price):base(name,price)
+        public Cake(string name, string price) : base(name, price)
         {
-            
+
         }
-       
-        int shelfLife = 5;
-        
+
+        int shelfLife = 7;
     }
 }
