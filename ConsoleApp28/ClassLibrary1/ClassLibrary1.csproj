@@ -40,9 +40,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Cakes.cs" />
+    <Compile Include="Cake.cs" />
     <Compile Include="Dish.cs" />
-    <Compile Include="Pies.cs" />
+    <Compile Include="Pie.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Salad.cs" />
   </ItemGroup>
